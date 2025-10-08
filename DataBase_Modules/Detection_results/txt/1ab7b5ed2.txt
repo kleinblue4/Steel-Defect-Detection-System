@@ -1,0 +1,3 @@
+class3
+defect_type: class3, x_center: 0.4301631546020508, y_center: 0.2324426919221878, width: 0.035516357421875, height: 0.23074409365653992, area_proportion: 0.0082
+defect_type: class3, x_center: 0.10854989051818847, y_center: 0.4975166916847229, width: 0.018129329681396484, height: 0.9898372888565063, area_proportion: 0.0179

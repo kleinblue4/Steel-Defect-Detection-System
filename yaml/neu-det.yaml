@@ -1,0 +1,11 @@
+# neu-det.yaml
+path: ./datasets  # 数据集路径
+train: images/train  # 训练集图像路径
+val: images/val  # 验证集图像路径
+
+# 类别信息
+# nc: 10  # 类别数量
+# names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratch','class1','class2','class3','class4']
+
+nc: 14  # 类别数量
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratch','crack','inclusion_','pitted_surface_','scratches_', 'zhehen', 'hanfeng', 'chongkong', 'yaozhed']

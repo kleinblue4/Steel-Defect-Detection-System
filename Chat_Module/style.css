@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "SimSun"; /* 指定字体 */
+    src: local("SimSun"), url("C:/Windows/Fonts/simsun.ttc") format("truetype");
+}
+
+body {
+    font-family: "SimSun", "Arial", sans-serif;
+    font-size: 14px;
+}

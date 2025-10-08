@@ -1,0 +1,2 @@
+class2
+defect_type: class2, x_center: 0.9168333435058593, y_center: 0.4976927638053894, width: 0.01355743408203125, height: 0.9952877759933472, area_proportion: 0.0135
